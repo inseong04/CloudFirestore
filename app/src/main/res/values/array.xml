@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="학년">
+        <item>학년을 선택해주세요!</item>
+        <item>고등학교1학년</item>
+        <item>고등학교2학년</item>
+        <item>고등학교3학년</item>
+    </string-array>
+</resources>
